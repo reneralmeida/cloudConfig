@@ -14,5 +14,5 @@ info:
   author: Rener Almeida
   mail: wouldntyouliketoknow@gmail.com
 server:
-  port: ${PORT:8080}
+  port: ${PORT:9999}
 message: Generic
